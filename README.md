@@ -9,13 +9,9 @@ This GitHub is mainly a space for me to learn, experiment, and occasionally docu
 - PostgREST – RESTful APIs from PostgreSQL  
 - Elysia.js – lightweight frameworks  
 - Kafka – distributed event streaming  
-- Redis – in-memory data magic  
-
----
-
-### 📚 Beyond Code
-Curiosity often takes me outside tech, where I pick up skills just for the fun of it.  
-Also, I make a mean **Milk Tea** and **Boba Milk Tea**.  
+- Redis – in-memory data magic
+- Kubernetes & Docker
+- Grafana
 
 ---
 
