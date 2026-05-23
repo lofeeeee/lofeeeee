@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lofee
 
-I work in **AI and IT support**, with a background in databases, programming, and keeping systems reliable.  
+I work in **IT support**, with a background in databases, programming, and keeping systems reliable.  
 This GitHub is mainly a space for me to learn, experiment, and occasionally document things I find useful.  
 
 ---
